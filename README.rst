@@ -1,5 +1,7 @@
 # Bubble Pop Battle Remake
 
+============
+
 inspired by [Bubble Pop Battle from Tetris Online](https://www.facebook.com/bubblepopbattle/) *service has ended*
 
 Game project for game-dev course (2017~2018)
