@@ -12,3 +12,7 @@ Powered by **pygame** (https://github.com/pygame/pygame), tested with **1.9.3 & 
 **Some graphics and audio files are from Tetris Online Japan,**
 
 **other assets belong to their owner(s).**
+
+Play video https://youtu.be/d4CTSlsmhII
+
+Original game video https://youtu.be/watch?v=XiB8lqcIKGU
